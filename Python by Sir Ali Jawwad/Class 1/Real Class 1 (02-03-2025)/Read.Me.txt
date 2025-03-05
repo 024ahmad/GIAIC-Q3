@@ -1,0 +1,15 @@
+
+Questions :
+
+What is CPU?
+
+What is GPU?
+
+What is TPU?
+
+What is Colab?
+
+What is Jupitor Notebook?
+
+What is Python?
+
