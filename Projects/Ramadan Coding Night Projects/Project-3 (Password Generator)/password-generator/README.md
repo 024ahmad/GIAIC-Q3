@@ -1,0 +1,1 @@
+Q1 = module, function, method or propertise me kya faraq hai?
